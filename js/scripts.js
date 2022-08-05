@@ -38,7 +38,7 @@ $(function () {
 
 
     //Magnific Popup
-    $('.galeria-burg').magnificPopup({ 
+    $('.galeria-barber').magnificPopup({ 
       type: 'image',
       delegate: 'a',
       
