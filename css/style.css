@@ -45,7 +45,7 @@
 
 /*PAG*/
 .coluna { width:100%; float:left; margin-bottom:30px; }
-.coluna.design { padding-left:80px; background-image:url("/2.0/img/img-rodape.png"); background-repeat:no-repeat; background-position:left -5px; }
+.coluna.design { padding-left:110px; background-image:url("/2.0/img/img-rodape.png"); background-repeat:no-repeat; background-position:left -5px; }
 
 /*Chamada*/
 .section-chamada  { padding:0em 0; background-color:#fff; }
@@ -55,7 +55,7 @@
 .topoPag .centraliza     { width: 90%; height:auto; top:26%; position:absolute; margin:0 5%; }
 .topoPag  img            { width:100%; }
 .topoPag .centraliza h1  { width: 100%; font-size:2em; float:left; text-align:center; text-transform:uppercase; font-family:'open_sansbold'; text-shadow: 2px 1px 5px #535353;}
-.topoPag .centraliza p   { width:100%; font-size:1em; float:left; text-align:center; text-transform:uppercase; font-family:'open_sansregular'; }
+.topoPag .centraliza p   { width:100%; font-size:1em; float:left; text-align:center; text-transform:uppercase; font-family:'open_sansregular'; text-shadow: 2px 1px 5px #535353;}
 .topoPag .centraliza p b { display:none; }
 
 /*Serviços*/
